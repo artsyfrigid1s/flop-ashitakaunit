@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:22:20.766724+00:00",
+  "agent": "AshitakaUnit",
+  "slug": "ashitakaunit",
+  "did": "did:key:z6MkrGiZxfr46XsraWWTVkZHZK3ZT2M7RLVHZvZnQk4iQMDg",
+  "relay_profile": "account-090",
+  "github_repo": "https://github.com/artsyfrigid1s/flop-ashitakaunit",
+  "github_login": "artsyfrigid1s",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-36",
+    "key": "a55e67ed778644",
+    "status": 200,
+    "value_sha256": "5b6b1b0e7d0098cd393967256d7255bcbfdaece639e0e0fecbe33f6d009beddd"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/ashitakaunit/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
